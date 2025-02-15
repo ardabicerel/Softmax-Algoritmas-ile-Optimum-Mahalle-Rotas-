@@ -62,6 +62,8 @@ lokasyon_koordinatlari = {
 ## Çalıştırma
 _Python'da softmax.py dosyasını çalıştırın._
 
+_Çalıştırılan kod sonucunda belirtilen lokasyonların optimum rotasının interaktif harita hali "harita.html" olarak indirilen mevcut dosya içinde gözükecektir._
+
 ### Kullanım Alanları
 
 1. Şehir içi toplu taşıma optimizasyonu
